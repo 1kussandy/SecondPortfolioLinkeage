@@ -1,1 +1,1 @@
-This is my second portfolio whu=ich is being linked to first: 
+This is my second portfolio which is being linked to first: https://1kussandy.github.io/SecondPortfolioLinkeage/ 
